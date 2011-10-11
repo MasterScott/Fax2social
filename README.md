@@ -20,4 +20,3 @@ Requirements
 FAQ
 Q: Why Windows? Why a Commercial OCR sw?
 A: Because all other OCR system we tried (Tesseract, google docs OCR) are crap
-
